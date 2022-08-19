@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: sofia-pro,sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #303040;
+}
+
+h3 {
+  color: white;
+  text-align: center
+}
+.center {
+  
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center
+}
+
+button {
+  position: relative
+}
